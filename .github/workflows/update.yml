@@ -15,10 +15,5 @@ jobs:
 
       - name: Run a one-line script
         run: echo " " >> README.md
-      - name: Commit files and push it
-        run: |
-          git config --global user.email "eddieschaumanhaigh@icloud.com"
-          git config --global user.name "EddieJLSH"
-          git add .
-          git commit -m "chore"
-          git push
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
