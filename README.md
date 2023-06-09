@@ -5,3 +5,4 @@ I'm Eddie, a software engineer with a strong background in quality engineering. 
 Ping me if you'd like to talk tech, or if you're working on open source code that goes into space & want a very eager contributor! 
 
 Currently living in Palo Alto (PT) but moving to Stockholm this summer (CET). 
+ 
