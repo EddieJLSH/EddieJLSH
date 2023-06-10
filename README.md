@@ -7,3 +7,4 @@ Ping me if you'd like to talk tech, or if you're working on open source code tha
 Currently living in Palo Alto (PT) but moving to Stockholm this summer (CET). 
  
  
+ 
